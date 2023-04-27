@@ -1,6 +1,7 @@
 💻 ¡Bienvenido al repositorio del trabajo final integrador de Argentina Programa! 💻
 
 El código que encontrarás aquí es la resolución del mencionado trabajo y ha sido realizado por un equipo de estudiantes desarrolladores conformado por:
+
 👨‍💻 Marco Casarotto
 👨‍💻 Facundo Marcial
 👨‍💻 Andrés Muñoz Pampillón 
